@@ -20,6 +20,7 @@ Analyze booking platforms based on ADR and Realisation %
 
 Understand weekly trends to support strategic planning
 
+
 📊 Key Metrics Explained
 
 Revenue – Total revenue generated
@@ -38,6 +39,7 @@ DURN (Daily Utilized Room Nights)
 
 Realisation % – Revenue realization after discounts/cancellations
 
+
 🖥 Dashboard Features
 
 Interactive filters by City and Room Type
@@ -54,6 +56,7 @@ Booking platform analysis with ADR & Realisation %
 
 Clean, business-oriented visual design
 
+
 🛠 Tools & Technologies Used
 
 Power BI
@@ -66,23 +69,7 @@ Data Cleaning & Transformation
 
 Interactive Visualizations
 
-📂 Dataset Information
 
-Domain: Hospitality / Hotel Management
-
-Data includes:
-
-Booking details
-
-Revenue metrics
-
-City & property information
-
-Room categories
-
-Booking platforms
-
-Dataset used for learning and portfolio purposes
 
 🔗 Live Dashboard
 
@@ -91,7 +78,7 @@ Dataset used for learning and portfolio purposes
 
 📸 Dashboard Preview
 
-(<img width="1050" height="695" alt="Dashboard SS" src="https://github.com/user-attachments/assets/a484028e-6f48-4f3a-8857-c65890865842" />)
+<img width="1050" height="695" alt="Dashboard SS" src="https://github.com/user-attachments/assets/a484028e-6f48-4f3a-8857-c65890865842" />
 
 📈 Business Impact
 
